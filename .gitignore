@@ -1,0 +1,13 @@
+# 缓存与输出
+output/
+*.json
+!package.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 系统
+Thumbs.db
+.DS_Store
